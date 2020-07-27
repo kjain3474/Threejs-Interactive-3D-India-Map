@@ -1,0 +1,77 @@
+<html>
+<head>
+	<title>Sprites (Three.js)</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	
+	<link rel=stylesheet href="css/base.css"/>
+	<link rel='stylesheet' type='text/css' href='css/style.css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.4/angular.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/89/three.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/89/three.min.js"></script>
+	
+	
+	<!-- d3 libs -->
+<script src="js/d3.min.js"></script>
+<script src="js/d3.geo.min.js"></script>
+
+<!-- fetch Info js -->
+<script type="text/javascript" src="js/fetchInfo.js"></script>
+
+<script src="js/Detector.js"></script>
+<script src="js/Projector.js"></script>
+<script src="js/Stats.js"></script>
+<script src="js/THREEx.KeyboardState.js"></script>
+<script src="js/THREEx.FullScreen.js"></script>
+<script src="js/THREEx.WindowResize.js"></script>
+<script src="js/Tween.js"></script>
+<script src="js/d3-threeD.js"></script>
+<script src="js/TrackballControls.js"></script>
+
+
+<!-- accordian js -->
+<script type="text/javascript" src="js/accordian.js"></script> 
+
+</head>
+<body>
+
+<div id="ThreeJS" style="position: absolute; left:0px; top:0px"></div>
+ 
+<div onmouseover="removeRaycaster()" onmouseout="addRaycaster()" class="hamburger" id="hamburger" onclick="openNav()" style="font-size:32px; z-index:1008; color:white; display:none; cursor: pointer">
+&#9776;
+</div>
+
+<div class="left-side" id="left-side" onmouseover="removeRaycaster()" onmouseout="addRaycaster()">
+<h1>Categories <span class="closebtn" onclick="closeNav()" style="font-size: 32px; cursor:pointer">&times; </span></h1>
+
+<div id="content">
+<div id="accordion" ng-app="app" ng-controller="ctrl">
+<input ng-model="searchText" style="width: 100%; height: auto" placeholder=" &#x2315; Search">
+<div class="panel" id="panel">
+         <div class="header" ng-click="expand($event,-1)"> 
+			<span  style="margin-right: 5px; margin-left: 5px"><image src="img/img11.gif"></span>Show All
+		 </div>
+</div>
+<div class="panel" id="panel" ng-repeat="tour in tourList | filter:searchText" ng-init="outerIndex=$index">
+         <div class="header"  ng-click="expand($event,outerIndex)"> 
+			<span  style="margin-right: 5px; margin-left: 5px"><image src="img/img11.gif"></span>{{tour.category}}
+		 </div>
+		  
+         <div class="body" id="body" ng-repeat="iten in tour.Itineraries | filter:searchText" ng-init="innerIndex=$index" ng-click="panToImage($event, innerIndex, outerIndex)">
+			<span  style="margin-right: 5px; margin-left: 5px"><image src="img/img11.gif"></span>{{iten.name}}
+		</div>
+     </div>
+</div>
+</div>
+</div>
+
+<div id="refresh" style="z-index:1008">
+<button onmouseover="removeRaycaster()" onmouseout="addRaycaster()" onclick="clickRefresh()" class="refresh">Reset Camera</button>
+</div>
+
+<!-- main js -->
+<script type="text/javascript" src="js/IdcMap.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<link rel='stylesheet' type='text/css' href='css/style.css'>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/89/three.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/89/three.min.js"></script>
+	
+	<!-- Three.js Core -->
+	<script src="js/d3.min.js"></script>
+    <script src="js/Stats.js"></script>
+	<script src="js/TrackballControls.js"></script>
+	<script src="js/Detector.js"></script>	
+	<script src="js/Projector.js"></script>
+	
+	<!-- Animation -->
+	<script src="js/Tween.js"></script>
+
+
+	<!-- styles -->
+	
+    <title>India Map Artificats View</title>
+  </head>
+  <body style="overflow:hidden">
+    <div id="loading">
+      <h5 id="loading-text">Loading...</h5>
+    </div>
+
+<div class="container-fluid" id="container" style="display:none">
+
+<div id="info" style="z-index:1005">
+			MOVE mouse &amp; press MIDDLE : zoom, Left : rotate
+</div>
+
+<div id="worldmap"  style="position: absolute; left:0px; top:0px"></div>
+
+<div id="refresh" style="z-index:1005">
+<button onmouseover="removeRaycaster()" onmouseout="addRaycaster()" onclick="clickRefresh()" class="refresh">Reset Camera</button>
+</div>
+
+<div id="tomap" style="z-index:1005">
+<button onmouseover="removeRaycaster()" onmouseout="addRaycaster()" onclick="tomap()" class="tomap">Go to map</button>
+</div>
+
+<div id="voice" style="z-index:1005">
+<button onmouseover="removeRaycaster()" onmouseout="addRaycaster()" onclick="toggle()" data-value="on" class="voice" id="voiceref" style="font-size:20px;">&#x1F50A;</button>
+</div>
+
+<audio id="audio" loop autoplay>
+   <source src="audio/audio.mp3" type="audio/mpeg">
+</audio>
+
+</div>
+
+<script src="js/index.js"></script>
+ </body>
+   
+</html>

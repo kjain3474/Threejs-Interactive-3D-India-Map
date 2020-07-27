@@ -1,0 +1,203 @@
+[ 
+{
+"category": "Painting",
+"name": "Kangra",
+"src": "img/kangra1.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Kangra",
+"src": "img/kangra2.jpg",
+"pubs":1
+},
+
+{
+"category": "Painting",
+"name": "Madhubani",
+"src": "img/madhubani1.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Madhubani",
+"src": "img/madhubani2.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Cave Painting",
+"src": "img/cave1.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Cave Painting",
+"src": "img/cave2.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Cave Painting",
+"src": "img/cave3.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Tribal Painting",
+"src": "img/tribe1.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Tribal Painting",
+"src": "img/tribe2.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Tribal Painting",
+"src": "img/tribe3.jpg",
+"pubs":1
+},
+{
+"category": "Painting",
+"name": "Tribal Painting",
+"src": "img/tribe4.jpg",
+"pubs":1
+},
+{
+"category": "Sculpture",
+"name": "Ashoka Pillar",
+"src": "img/sculp1.jpg",
+"pubs":1
+},
+
+{
+"category": "Sculpture",
+"name": "Konark Elephant",
+"src": "img/sculp2.jpg",
+"pubs":1
+},
+{
+"category": "Sculpture",
+"name": "Vishnu",
+"src": "img/sculp3.jpg",
+"pubs":1
+},
+
+
+{
+"category": "Sculpture",
+"name": "Ganesha",
+"src": "img/sculp4.jpg",
+"pubs":1
+},
+{
+"category": "Sculpture",
+"name": "Nataraj",
+"src": "img/sculp5.jpg",
+"pubs":1
+},
+
+{
+"category": "Sculpture",
+"name": "Kailash Temple",
+"src": "img/sculp6.jpg",
+"pubs":1
+},
+
+{
+"category": "Sculpture",
+"name": "Sanchi Sthup",
+"src": "img/sculp7.jpg",
+"pubs":1
+},
+{
+"category": "Sculpture",
+"name": "Elephant",
+"src": "img/sculp8.jpg",
+"pubs":1
+},
+{
+"category": "Metal Craft",
+"name": "Metal Boat",
+"src": "img/metal1.jpg",
+"pubs":1
+},
+
+{
+"category": "Metal Craft",
+"name": "Metal Poat",
+"src": "img/metal2.jpg",
+"pubs":1
+},
+{
+"category": "Metal Craft",
+"name": "Metal Poat2",
+"src": "img/metal3.jpg",
+"pubs":1
+},
+
+{
+"category": "Metal Craft",
+"name": "Metal Poat3",
+"src": "img/metal4.jpg",
+"pubs":1
+},
+
+{
+"category": "Metal Craft",
+"name": "Metal Poat4",
+"src": "img/metal5.jpg",
+"pubs":1
+},
+
+{
+"category": "Metal Craft",
+"name": "Metal Poat5",
+"src": "img/metal6.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door",
+"src": "img/wood1.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door2",
+"src": "img/wood2.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door3",
+"src": "img/wood3.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door4",
+"src": "img/wood4.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door5",
+"src": "img/wood5.jpg",
+"pubs":1
+},
+
+{
+"category": "Wood Craft",
+"name": "Wooden Door6",
+"src": "img/wood6.jpg",
+"pubs":1
+} ]

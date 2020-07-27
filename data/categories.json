@@ -1,0 +1,48 @@
+[
+  {
+    "category": "Maharashtra",
+    "Itineraries": [
+      {
+        "name": "Mumbai",
+        "x": -170.37063680988734,
+        "y": 10,
+        "z": 47.52331285286563,
+        "src": "img/image_ajanta.jpg",
+        "desc": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924.",
+        "page": "https://www.google.com/search?q=mumbai"
+      },
+      {
+        "name": "Nagpur",
+        "x": -35.181426320166906,
+        "y": 10,
+        "z": 0.5292672188554093,
+        "src": "img/image_ajanta.jpg",
+        "desc": "Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry.",
+        "page": "https://www.google.com/search?q=nagpur"
+      }
+    ]
+  },
+  {
+    "category": "Kerala",
+    "Itineraries": [
+      {
+        "name": "a",
+        "x": -170.37063680988744,
+        "y": 10,
+        "z": 47.52331285286563,
+        "src": "img/image_ajanta.jpg",
+        "desc": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924.",
+        "page": "https://www.google.com/search?q=mumbai"
+      },
+      {
+        "name": "b",
+        "x": -35.181426320166446,
+        "y": 10,
+        "z": 0.5292672188554093,
+        "src": "img/image_ajanta.jpg",
+        "desc": "Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry.",
+        "page": "https://www.google.com/search?q=nagpur"
+      }
+    ]
+  }
+]

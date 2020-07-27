@@ -1,0 +1,407 @@
+ [{
+      "category": "Painting",
+      "Itineraries": [
+	  	  
+	  {
+        "name": "Kangra Painting",
+		 "x":-90.89823585367913,
+		 "y":10,
+		 "z":-286.77715853084277,
+		"src": "img/kangra1.jpg",
+		"caption": "Krishna playing a flute",
+		"keyw": "Indian heritage",
+		"desc": "Kangra painting is the pictorial art of Kangra, named after Kangra, Himachal Pradesh, a former princely state, which patronized the art.",
+		"page": "https://en.wikipedia.org/wiki/Kangra_painting",
+		"pubs":1
+      }, 
+	  {
+        "name": "Kangra Painting",
+		"x":-116.7872236127838,
+		"y":10,
+		"z":-238.27590255286276,
+		"src": "img/kangra2.jpg",
+		"caption": "Sansar Chand Museum painting",
+		"keyw": "Indian heritage",
+		"desc": "Kangra painting is the pictorial art of Kangra, named after Kangra, Himachal Pradesh, a former princely state, which patronized the art.",
+		"page": "http://hillpost.in/2011/03/sansar-chand-museum-to-organise-painting-workshops/26790/comment-page-1/",
+		"pubs":1
+      }, 
+	  {
+        "name": "Madhubani Painting",
+		"x":136.65366154553317,
+		"y":10,
+		"z":-107.09247849715271,
+		"src": "img/madhubani1.jpg",
+		"caption": "Radha Krishna Raslila",
+		"keyw": "Indian heritage",
+		"desc": "Madhubani Painting Handmade Paper Radha Krishna Raslila Painting",
+		"page": "https://www.craftsvilla.com/blog/history-of-madhubani-art-paintings-will-leave-you-in-awe/",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Madhubani Painting",
+		"x":134.0801650695513,
+		"y":10,
+		"z":-104.55866550475767,
+		"src": "img/madhubani2.jpg",
+		"caption": "Lakshmi Ganesha",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      }	,
+{
+        "name": "Cave Painting",
+		"x":-71.5609733615517,
+		"y":10,
+		"z":30.149412102573713,
+		"src": "img/cave1.jpg",
+		"caption": "Ajanta Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      }	,
+{
+        "name": "Cave Painting",
+		"x":-27.875722847898317,
+		"y":10,
+		"z":14.48167304149013,
+		"src": "img/cave2.jpg",
+		"caption": "Alora Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      }	,
+{
+        "name": "Cave Painting",
+		"x":15.318026927582594,
+		"y":10,
+		"z":46.32842644958784,
+		"src": "img/cave3.jpg",
+		"caption": "Indian Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      },
+
+
+{
+        "name": "Tribal Painting",
+		"x":37.949865109277994,
+		"y":10,
+		"z":-27.67023538022295,
+		"src": "img/tribe1.jpg",
+		"caption": "Indian Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      },
+
+{
+        "name": "Tribal Painting",
+		"x":97.07391463381248,
+		"y":10,
+		"z":-51.54003011260217,
+		"src": "img/tribe2.jpg",
+		"caption": "Indian Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      },
+
+{
+        "name": "Tribal Painting",
+		"x":31.896389434262687,
+		"y":10,
+		"z":-5.403989892440112,
+		"src": "img/tribe3.jpg",
+		"caption": "Indian Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      },
+
+{
+        "name": "Tribal Painting",
+		"x":47.8769159486676,
+		"y":10,
+		"z":51.07764982376638,
+		"src": "img/tribe4.jpg",
+		"caption": "Indian Cave Painting",
+		"keyw": "Indian heritage",
+		"desc": "Auspicious Lakshmi Ganesha Painting for Worship on Deepawali - Madhubani Painting on hand made paper treated with Cow Dung.",
+		"page": "https://www.exoticindiaart.com/product/paintings/auspicious-lakshmi-ganesha-diagram-for-worship-on-deepawali-DI25/",
+		"pubs":1
+      }	  ]
+    }, {
+      "category": "Sculpture",
+      "Itineraries":  [{
+        "name": "Ashoka Pillar",
+		"x":97.72138936070269,
+		"y":10,
+		"z":-113.61662992169809,
+		"src": "img/sculp1.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc":"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants.",
+		"page":"https://www.google.com/search?q=kochi",
+		"pubs":1
+      }, {
+        "name": "Konark Elephant",
+		"x":114.28844566771261,
+		"y":10,
+		"z":18.140114753238212,
+		"caption": "",
+		"keyw": "Indian heritage",
+		"src": "img/sculp2.jpg",
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Vishnu",
+		"x":-119.1155962401183,
+		"y":10,
+		"z":168.82065824229724,
+		"src": "img/sculp3.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Ganesha",
+		"x":-89.83731478189543,
+		"y":10,
+		"z":253.43507050406595,
+		"src": "img/sculp4.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Nataraj",
+		"x":-47.05171023519034,
+		"y":10,
+		"z":235.42899105114338,
+		"src": "img/sculp5.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Kailash Temple",
+		"x":-23.73862655497709,
+		"y":10,
+		"z":31.999375466898307,
+		"src": "img/sculp6.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Sanchi Sthup",
+		"x":-62.35325196742883,
+		"y":10,
+		"z":-68.58872439256369,
+		"src": "img/sculp7.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  {
+        "name": "Elephant",
+		"x":-181.26530433880885,
+		"y":10,
+		"z":-128.80933032046792,
+		"src": "img/sculp8.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      }   ]
+    
+	}, {
+      "category": "Metal Craft",
+      "Itineraries":  [
+	  
+	  {
+        "name": "Metal Boat",
+		"x":-26.5381889960708,
+		"y":10,
+		"z":154.7169657413452,
+		"src": "img/metal1.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc":"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants.",
+		"page":"https://www.google.com/search?q=kochi",
+		"pubs":1
+      }, 
+	  
+	  {
+        "name": "Metal Poat",
+		"x":71.5166896907275,
+		"y":10,
+		"z":8.13042020560613,
+		"src": "img/metal2.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Metal Poat2",
+		"x":-199.34501556899693,
+		"y":10,
+		"z":-41.17167048897035,
+		"src": "img/metal3.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Metal Poat3",
+		"x":-151.217203673504,
+		"y":10,
+		"z":-178.40820751843313,
+		"src": "img/metal4.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Metal Poat4",
+		"x":-81.46257276260991,
+		"y":10,
+		"z":209.50561073944814,
+		"src": "img/metal5.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Metal Poat5",
+		"x":280.0208252470244,
+		"y":10,
+		"z":-123.49595638980273,
+		"src": "img/metal6.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      }	 ]
+	
+	}, {
+      "category": "Wood Craft",
+      "Itineraries":  [
+	  
+	  {
+        "name": "Wooden Door",
+		"x":-6.292536669534968,
+		"y":10,
+		"z":-140.97824651277963,
+		"src": "img/wood1.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc":"Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants.",
+		"page":"https://www.google.com/search?q=kochi",
+		"pubs":1
+      }, 
+	  
+	  {
+        "name": "Wooden Door2",
+		"x":-78.25659889560217,
+		"y":10,
+		"z":-45.67764952406516,
+		"src": "img/wood2.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Wooden Door3",
+		"x":-33.08430012942267,
+		"y":10,
+		"z":89.70185930542392,
+		"src": "img/wood3.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Wooden Door4",
+		"x":-92.70818891206864,
+		"y":10,
+		"z":132.01854144496875,
+		"src": "img/wood4.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Wooden Door5",
+		"x":-79.61754478514064,
+		"y":10,
+		"z":282.2370564651479,
+		"src": "img/wood5.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      },
+	  
+	  {
+        "name": "Wooden Door6",
+		"x":-111.46931024013475,
+		"y":10,
+		"z":133.1427563810926,
+		"src": "img/wood6.jpg",
+		"caption": "Indian culture",
+		"keyw": "Indian heritage",		
+		"desc": "Kanyakumari is a coastal town in the state of Tamil Nadu on India's southern tip. Jutting into the Laccadive Sea, the town was known as Cape Comorin during British rule and is popular for watching sunrise and sunset over the ocean.",
+		"page": "https://www.google.com/search?q=kanyakumari",
+		"pubs":1
+      }		  
+	  ]
+	
+	}]
+ 
